@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ちらばれ！サマーピーポー",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-23T09:02:28.608869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ちらばれ！サマーピーポー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": true,
+      "path": "select/01_ちらばれ!サマーピーポー_ヤバイTシャツ屋さん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ちらばれ！サマーピーポー",
+      "artist": "yabai T-shirts yasan",
+      "has_synced": true,
+      "path": "select/02_ちらばれ!サマーピーポー_yabai_T-shirts_yasan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ちらばれ！サマーピーポー (岡崎体育 remix)",
+      "artist": "Yabai T-Shirts Yasan",
+      "has_synced": false,
+      "path": "select/03_ちらばれ!サマーピーポー_(岡崎体育_remix)_Yabai_T-Shirts_Yasan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちらばれ!サマーピーポー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_ちらばれ!サマーピーポー_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ちらばれ!サマーピーポー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_ちらばれ!サマーピーポー_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ちらばれ!サマーピーポー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_ちらばれ!サマーピーポー_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ちらばれ!サマーピーポー(岡崎体育 remix)",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_04_ちらばれ!サマーピーポー(岡崎体育_remix)_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
